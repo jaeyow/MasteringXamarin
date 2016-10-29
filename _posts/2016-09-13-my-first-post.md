@@ -12,7 +12,7 @@ header-img: "img/cebu-sunset-2.png"
 
 [Demo Source code](https://bitbucket.org/jaeyow/xamarinapp)
 
-*Continuous Delivery* – Continuous Delivery is a software development discipline where you build software in such a way that the software can be released to production at anytime. – Martin Fowler
+*Continuous Delivery* – __Continuous Delivery__ is a software development discipline where you build software in such a way that the software can be released to production at anytime. – Martin Fowler
 
 By now it is well established that Continuous Delivery is a big thing. We have large companies like Facebook, Google, Netflix and the like have been doing this for years in the web space.
 
