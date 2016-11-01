@@ -5,12 +5,8 @@ subtitle:   "my talk at the Sydney Xamarin meetup"
 author:     "Jose Reyes"
 header-img: "img/cebu-sunset-2.png"
 ---
+This post is a short summary and a reminder to myself and others, of the [presentation](https://www.meetup.com/SydneyMobileDotNetDevelopers/events/233229471/) that I recently gave to the local Xamarin meetup. I have prepared [slides](https://docs.google.com/presentation/d/16rtnAfWC_2qQ59FzC1fxHVtxYqY4dqEOsvc6ViGyf3M/pub?start=false&loop=false&delayms=3000&slide=id.p), please feel free to re-use as you please. I have also prepared a [demo](https://bitbucket.org/jaeyow/xamarinapp) in my bitbucket account. Also free for anyone to use.
 
-[Slides for my talk](https://docs.google.com/presentation/d/16rtnAfWC_2qQ59FzC1fxHVtxYqY4dqEOsvc6ViGyf3M/pub?start=false&loop=false&delayms=3000&slide=id.p)
-
-[Meetup Link](https://www.meetup.com/SydneyMobileDotNetDevelopers/events/233229471/)
-
-[Demo Source code](https://bitbucket.org/jaeyow/xamarinapp)
 
 __*Continuous Delivery*__ – Continuous Delivery is a software development discipline where you build software in such a way that the software can be released to production at anytime. – Martin Fowler
 
